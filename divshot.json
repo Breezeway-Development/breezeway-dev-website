@@ -1,0 +1,7 @@
+{
+  "name": "breezeway-dev-website",
+  "root": "./",
+  "clean_urls": true,
+  "cache_control": {},
+  "routes": {}
+}
